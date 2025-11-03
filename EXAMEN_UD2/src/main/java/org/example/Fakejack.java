@@ -42,7 +42,7 @@ public class Fakejack {
 
                 carta_jugador = aleatorio.nextInt(10) + 2;
                 System.out.println("Tu carta es: " + carta_jugador);
-                puntuacion += carta_jugador;
+
                 System.out.println("Puntuacion actual: " + puntuacion);
 
             }
